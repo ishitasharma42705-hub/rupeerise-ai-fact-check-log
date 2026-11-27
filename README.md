@@ -6,7 +6,7 @@ Fictional FinTech case study: fact-checking an AI-written investor brief against
 **A FinTech case study on catching AI hallucinations before they reach investors.**
 
 
-Author: Annanya · BBA (FinTech), Chitkara Business School · Tools: ChatGPT, Perplexity · November 2026
+Author: ishita · BBA (FinTech), Chitkara Business School · Tools: ChatGPT, Perplexity · November 2026
 
 
 ## The case
